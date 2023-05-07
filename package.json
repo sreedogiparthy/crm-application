@@ -33,7 +33,7 @@
         "jquery.cookie": "1.4.1",
         "jquery.uniform": "4.3.*",
         "jstree": "3.3.*",
-        "lightgallery": "1.4.0",
+        "lightgallery": "1.10.0",
         "moment": "2.24.*",
         "moment-timezone": "0.5.*",
         "numeral": "2.0.6",
