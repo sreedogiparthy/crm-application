@@ -37,7 +37,7 @@
         "moment": "2.24.*",
         "moment-timezone": "0.5.*",
         "numeral": "2.0.6",
-        "overlayscrollbars": "1.6.*",
+        "overlayscrollbars": "1.13.3",
         "popper.js": "1.14.7",
         "scriptjs": "2.5.9",
         "slick-carousel": "1.6.0",
